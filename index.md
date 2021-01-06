@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Save the Date!
 
-You can use the [editor on GitHub](https://github.com/containers/ContainerPlumbing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Container Plumbing Days will be **March 9-10, 2021**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The CfP will be posted in January.
 
-### Markdown
+## Container Plumbing?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Container Plumbing Days will be a 2-day event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
 
-```markdown
-Syntax highlighted code block
+Container orchestration and top-level applications may get most of the exposure, but they only work because of an infrastructure of supporting tools and libraries: in short, the "plumbing" that makes platforms like Kubernetes work.  There's plenty of development still to do there, and plenty of new ideas that have not yet been fully explored.
 
-# Header 1
-## Header 2
-### Header 3
+Concepts we plan to explore include:
 
-- Bulleted
-- List
+* Container runtimes
+* Image building
+* Image scanning
+* Container security and isolation
+* Virtualization inside containers
+* Containers on alternate architectures and platforms
+* Linux cgroups and other kernel features
 
-1. Numbered
-2. List
+The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, and many others.  If your project involves lower-level container resources, consider proposing a session!
 
-**Bold** and _Italic_ and `Code` text
+## Sponsors
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/containers/ContainerPlumbing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Container Plumbing Days will be sponsored by Red Hat.
