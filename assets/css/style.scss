@@ -1,4 +1,100 @@
 ---
 ---
+/* These are variables the Cayman theme defines */
+
+/* Headers */
+$header-heading-color: #ffffff;
+$header-bg-color: #33333f;
+$header-bg-color-secondary: #111120;
+
+/* Text */
+$section-headings-color: #003377;
+$body-text-color: #606c71;
+$body-link-color: #0066cc;
+$blockquote-text-color: #819198;
+
+/* Code */
+$code-bg-color: #f3f6fa;
+$code-text-color: #567482;
+
+/* Borders */
+$border-color: #dce6f0;
+$table-border-color: #e9ebec;
+$hr-border-color: #eff0f1;
+
+$nav-text-color: #aaaaaa;
+$nav-active-color: #ffffff;
+$nav-hover-color: lighten($nav-text-color, 50%);
 
 @import "{{ site.theme }}";
+
+#logo {
+    max-width: 832px;
+}
+
+@media (max-width: 1024px) {
+  #logo {
+    max-width: 100%;
+  }
+}
+
+
+header.page-header {
+    padding-bottom: 0;
+    background: linear-gradient(0deg, $header-bg-color, $header-bg-color-secondary, $header-bg-color);
+}
+
+h2.project-tagline {
+    margin: 0;
+    padding: 1em;
+}
+
+// link colors
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+
+.wrapper {
+    nav {
+        background: rgba(black, 1);
+        ul.nav-menu {
+            margin: 0;
+            text-align: center;
+            padding: 0.3em;
+            li {
+                display: inline;
+                list-decoration: none;
+                font-size: 130%;
+                font-weight: 600;
+                margin: 0 0.5em 0 0.5em;
+                #{$a-tags} {
+                    color: $nav-text-color;
+                    text-decoration: none;
+                }
+                #{$a-tags-hover} {
+                    color: $nav-hover-color;
+                }
+	        }
+    	    li.active {
+	    	    #{$a-tags} {
+                    color: $nav-active-color;
+                }
+            }
+        }
+    }
+}
+
+footer {
+    text-align: center;
+    #{$a-tags} {
+	color: $body-link-color;
+	text-decoration: none;
+    }
+    #{$a-tags-hover} {
+	color: lighten($body-link-color, 50%);
+    }
+    img#twitter {
+	width: 1.4em;
+	vertical-align: top;
+	margin: 0 0.2em 0 0.2em;
+    }
+}
