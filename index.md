@@ -6,7 +6,7 @@ layout: default
 
 Container Plumbing Days will be **March 9-10, 2021**
 
-The CfP will be posted in January.
+Please [submit a session proposal](/speakers) by **February 10, 2021**
 
 ## Container Plumbing?
 

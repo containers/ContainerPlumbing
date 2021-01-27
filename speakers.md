@@ -17,7 +17,7 @@ ContainerPlumbing is looking for proposals around everything containers below th
 
 Projects we want to hear about include (but are not limited to): Buildah, CRI-O, Linux cGroups & SecComp, podman, containerd, Tern, Kind, Clair, Skopeo, CoreOS, Flatcar Linux, Katacontainers, Kubevirt, OCI, and more.  Basically, if it lives below the scheduling & orchestration layer, then we're interested in hearing about it. Presented technologies should be open source.
 
-While we think that Kubernetes and Openshift and Che and similar projects are awesome, this is not the place for them.  There's lots of other conferences covering those.
+While we think that Kubernetes, Openshift, Che and similar projects are awesome, this is not the place for them.  There's lots of other conferences covering those.
 
 By submitting a proposal, you are agreeing to the [ContainerPlumbing Code of Conduct](/conduct).
 
