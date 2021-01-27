@@ -19,6 +19,8 @@ Projects we want to hear about include (but are not limited to): Buildah, CRI-O,
 
 While we think that Kubernetes and Openshift and Che and similar projects are awesome, this is not the place for them.  There's lots of other conferences covering those.
 
+By submitting a proposal, you are agreeing to the [ContainerPlumbing Code of Conduct](/conduct).
+
 ## Deadlines
 
 Please submit your proposal by February 10, 2021, at 23:59 UTC (7pm Eastern).
@@ -35,4 +37,4 @@ Discussion Session (50m): these sessions will be for open discussion of topics o
 
 ## Submit Proposal
 
-You can submit a proposal using our [CfP Form]().  Contact admin@containerplumbing.org if you have issues with submitting.
+You can submit a proposal using our [CfP Form](https://forms.gle/WvezB2FDWpXGAV4y9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
