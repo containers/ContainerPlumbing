@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -13,7 +12,7 @@ While most of these talks will be given during Container Plumbing Days, some of 
 ## Tuesday, March 9th
 
 | EST time | UTC time | Session Title | Session Leader |
-| ------ | ------ | ---------------------------------------- | ---------- |
+| -------- | ------ | ---------------------------------------- | ---------- |
 | 9:30-9:55 AM | 14:30-14:55 | Welcome and Logistics | Dan Walsh |
 | 10:00-10:55 AM | 15:00-15:55 | New Kernel Features for Containers | Giuseppe Scrivano |
 | 11:00-11:25 AM | 16:00-16:25 | Podman and systemd – the Why, the What, and the How | Valentin Rothberg |
