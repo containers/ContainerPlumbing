@@ -8,6 +8,8 @@ Container Plumbing Days will be **March 9-10, 2021**
 
 Please [submit a session proposal](/speakers) by **February 10, 2021**
 
+[**Register now!**](/register)
+
 ## Container Plumbing?
 
 The Container Plumbing Days will be a 2-day event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
@@ -24,7 +26,7 @@ Concepts we plan to explore include:
 * Containers on alternate architectures and platforms
 * Linux cgroups and other kernel features
 
-The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, and many others.  If your project involves lower-level container resources, consider proposing a session!
+The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, WASM, and many others.  If your project involves lower-level container resources, consider proposing a session!
 
 ## Sponsors
 

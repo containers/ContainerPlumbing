@@ -6,7 +6,7 @@ layout: default
 
 ContainerPlumbing is looking for proposals around everything containers below the orchestration layer.  This includes (but is not limited to):
 
-* Container runtimes
+* Container runtimes, including WASM
 * Image building
 * Image scanning
 * Container security and isolation
@@ -14,6 +14,7 @@ ContainerPlumbing is looking for proposals around everything containers below th
 * Containers on alternate architectures and platforms
 * Linux cgroups and other kernel features
 * Container OSes
+* Containers on non-Linux OSes
 
 Projects we want to hear about include (but are not limited to): Buildah, CRI-O, Linux cGroups & SecComp, podman, containerd, Tern, Kind, Clair, Skopeo, CoreOS, Flatcar Linux, Katacontainers, Kubevirt, OCI, and more.  Basically, if it lives below the scheduling & orchestration layer, then we're interested in hearing about it. Presented technologies should be open source.
 
