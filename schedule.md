@@ -3,18 +3,28 @@ layout: default
 ---
 
 
-# DRAFT Event Schedule
+# Event Schedule
 
-The following schedule is a **draft**, still awaiting confirmation from a few of our speakers.
+Container Plumbing now has a complete schedule of sessions, pending one session replacement.
 
-While most of these talks will be given during Container Plumbing Days, some of the timeslots may still change.
+Our themes for this year, based on the proposals we received are Linux kernel
+features, OCI innovation, improving image pulls and image building, and container
+image and supply chain security.
+
+[Please join us](/register)!
 
 ## Tuesday, March 9th
+
+Tuesday's themes are:
+
+* Linux Kernel features and how to hack them
+* OCI innovations to the container format
+
 
 | EST time | UTC time | Session Title | Session Leader |
 | -------- | ------ | ---------------------------------------- | ---------- |
 | 9:30-9:55 AM | 14:30-14:55 | Welcome and Logistics | Dan Walsh |
-| 10:00-10:55 AM | 15:00-15:55 | New Kernel Features for Containers | Giuseppe Scrivano |
+| 10:00-10:55 AM | 15:00-15:55 | DISCUSSION: New Kernel Features for Containers | Giuseppe Scrivano |
 | 11:00-11:25 AM | 16:00-16:25 | Podman and systemd – the Why, the What, and the How | Valentin Rothberg |
 | 11:30-11:55 AM | 16:30-16:55 | Lightweight Virtualization-Based Isolation Using libkrun | Sergio Lopez |
 | 12:00-12:25 PM | 17:00-17:25 | Container Migration News | Adrian Reber |
@@ -24,13 +34,19 @@ While most of these talks will be given during Container Plumbing Days, some of 
 
 ## Wednesday, March 10th
 
+Wednesday's themes are:
+
+* Fixing image pulls
+* Container image supply chain security
+* New ways to build container images
+
 | EST time | UTC time | Session Title | Session Leader |
 | ------ | ------ | ---------------------------------------- | ---------- |
 | 09:30-09:55 AM | 14:30-14:55 | Nydus: Container Image Acceleration with E2E Data Integrity | Tao Peng |
 | 10:00-10:25AM | 15:00-15:25 | Starting up Containers Super Fast With Lazy Pulling of Images | Kohei Tokunaga |
-| 10:30-10:55 AM | 15:30-15:55 | Improve Image Pulls  | Giuseppe Scrivano |
+| 10:30-10:55 AM | 15:30-15:55 | DISCUSSION: Improve Image Pulls  | Giuseppe Scrivano |
 | 11:00-11:25 AM | 16:00-16:25 | TBD | TBD |
 | 11:30-11:55 AM | 16:30-16:55 | Zero Trust: Running Confidential Computing Containers | Samuel Ortiz |
 | 12:00-12:25 PM | 17:00-17:25 | BuildKit: Intro to the Architecture of a Modern Build Framework | Tonis Tiigi |
 | 12:30-12:55 PM | 17:30-17:55 | From Docker Compose to Kubernetes with Podman | Brent Baude |
-| 01:00-01:55PM | 18:00-18:55 | Secure Container Supply Chain - Considerations, Tools, and Gaps | Nisha Kumar |
+| 01:00-01:55PM | 18:00-18:55 | DISCUSSION: Secure Container Supply Chain - Considerations, Tools, and Gaps | Nisha Kumar |
