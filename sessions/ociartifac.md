@@ -2,7 +2,7 @@
 
 **Schedule**: March 9 01:30-01:55 PM EST 18:30-18:55 UTC
 
-**Presenters**: Steve Lasker
+**Presenters**: Steve Lasker, Microsoft
 
 **Topics**: Image Building, Alternate Architectures/Platforms, Image formats & standards, OCI Artifacts
 

@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 09:30-09:55 AM EST 14:30-14:55 UTC
 
-**Presenters**: Tao Peng,
+**Presenters**: Tao Peng, Ant Group
 
 **Topics**: Container/Image Security, Image Building, Image formats & standards, Nydus, Dragonfly, Harbor, runc, kata-containers
 

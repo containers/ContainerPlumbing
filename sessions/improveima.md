@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 10:30-10:55 AM EST 15:30-15:55 UTC
 
-**Presenters**: Giuseppe Scrivano,
+**Presenters**: Giuseppe Scrivano, Red Hat
 
 **Topics**: Container Runtimes, Image formats & standards, Podman, CRI-O, Skopeo
 

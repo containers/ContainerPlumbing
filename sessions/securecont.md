@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 01:00-01:55PM EST 18:00-18:55 UTC
 
-**Presenters**: Nisha Kumar, Brandon Lum, IBM, Steve Lasker, Microsoft
+**Presenters**: Nisha Kumar, VMware, Brandon Lum, IBM, Steve Lasker, Microsoft
 
 **Topics**: Container OSes, Container/Image Security, Image Building, Image formats & standards, Secure Software Supply Chain, Tern, OCI Artifacts, Docker, ORAS, Buildah, TUF, In-Toto, Notary V2
 

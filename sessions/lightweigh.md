@@ -3,7 +3,7 @@
 
 **Schedule**: March 9 11:30-11:55 AM EST 16:30-16:55 UTC
 
-**Presenters**: Sergio Lopez,
+**Presenters**: Sergio Lopez, Red Hat
 
 **Topics**: Container Runtimes, Container/Image Security, cGroups, Namespaces, Kernel, Containers & Virtualization, libkrun, krunvm, podman, buildah, crun
 

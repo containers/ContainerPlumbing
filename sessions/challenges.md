@@ -2,7 +2,7 @@
 
 **Schedule**: March 9 01:00-01:25 PM EST 18:00-18:25 UTC
 
-**Presenters**: Mauricio Vásquez
+**Presenters**: Mauricio Vásquez, Kinvolk
 
 **Topics**: cGroups, Namespaces, Kernel, containerd,crio,runc,kubernetes
 

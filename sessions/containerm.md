@@ -2,7 +2,7 @@
 
 **Schedule**: March 9 12:00-12:25 PM EST 17:00-17:25 UTC
 
-**Presenters**: Adrian Reber,
+**Presenters**: Adrian Reber, Red Hat
 
 **Topics**: Container Runtimes, CRIU, Podman, runc, crun, CRI-O
 

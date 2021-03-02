@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 10:00-10:25AM EST 15:00-15:25 UTC
 
-**Presenters**: Kohei Tokunaga,
+**Presenters**: Kohei Tokunaga, NTT
 
 **Topics**: Container Runtimes, Image formats & standards, containers/storage, containers/image, Podman, CRI-O, Stargz Snapshotter, containerd, Kubernetes
 

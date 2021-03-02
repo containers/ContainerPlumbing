@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 12:30-12:55 PM EST 17:30-17:55 UTC
 
-**Presenters**: Brent Baude
+**Presenters**: Brent Baude, Red Hat
 
 **Topics**: Container Runtimes, docker-compose, podman, kubernetes
 

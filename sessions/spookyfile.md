@@ -2,7 +2,7 @@
 
 **Schedule**: March 9 12:30-12:55 PM EST 17:30-17:55 UTC
 
-**Presenters**: Tammer Saleh
+**Presenters**: Tammer Saleh, SuperOrbital
 
 **Topics**: cGroups, Namespaces, Kernel, Linux Kernel
 

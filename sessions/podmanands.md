@@ -2,7 +2,7 @@
 
 **Schedule**: March 9 11:00-11:25 AM EST 16:00-16:25 UTC
 
-**Presenters**: Valentin Rothberg,
+**Presenters**: Valentin Rothberg, Red Hat
 
 **Topics**: Container Runtimes, Containers & Virtualization, Podman, systemd
 

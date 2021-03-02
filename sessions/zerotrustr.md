@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 11:30-11:55 AM EST 16:30-16:55 UTC
 
-**Presenters**: Samuel Ortiz,
+**Presenters**: Samuel Ortiz, Intel
 
 **Topics**: Container Runtimes, Container/Image Security, Containers & Virtualization, Image formats & standards, containerd, CRI-O, Kata Containers, QEMU, Cloud Hypervisor
 

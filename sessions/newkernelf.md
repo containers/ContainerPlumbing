@@ -2,7 +2,7 @@
 
 **Schedule**: March 9 10:00-10:55 AM EST 15:00-15:55 UTC
 
-**Presenters**: Giuseppe Scrivano, Kir Kolyshin, Red Hat, Dan Walsh, Red Hat
+**Presenters**: Giuseppe Scrivano, Red Hat, Kir Kolyshin, Red Hat, Dan Walsh, Red Hat
 
 **Topics**: cGroups, Namespaces, Kernel, Linux, crun, runc
 

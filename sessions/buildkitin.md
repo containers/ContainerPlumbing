@@ -2,7 +2,7 @@
 
 **Schedule**: March 10 12:00-12:25 PM EST 17:00-17:25 UTC
 
-**Presenters**: Tonis Tiigi
+**Presenters**: Tonis Tiigi, Docker Inc.
 
 **Topics**: Image Building, Containers & Virtualization, BuildKit, Docker Buildx
 
