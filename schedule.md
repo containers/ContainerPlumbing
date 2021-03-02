@@ -23,7 +23,7 @@ Tuesday's themes are:
 
 
 | EST time | UTC time | Session Title | Session Leader |
-| -------- | ------ | ---------------------------------------- | ---------- |
+| ---------- | ------ | ---------------------------------------- | ---------- |
 | 9:30-9:55 AM | 14:30-14:55 | [Welcome and Logistics](/sessions/welcomeand) | Dan Walsh |
 | 10:00-10:55 AM | 15:00-15:55 | [DISCUSSION: New Kernel Features for Containers](/sessions/newkernelf) | Giuseppe Scrivano |
 | 11:00-11:25 AM | 16:00-16:25 | [Podman and systemd – the Why, the What, and the How](/sessions/podmanands) | Valentin Rothberg |
@@ -42,7 +42,7 @@ Wednesday's themes are:
 * New ways to build container images
 
 | EST time | UTC time | Session Title | Session Leader |
-| ------ | ------ | ---------------------------------------- | ---------- |
+| -------- | ------ | ---------------------------------------- | ---------- |
 | 09:30-09:55 AM | 14:30-14:55 | [Nydus: Container Image Acceleration with E2E Data Integrity](/sessions/nydusconta) | Tao Peng |
 | 10:00-10:25AM | 15:00-15:25 | [Starting up Containers Super Fast With Lazy Pulling of Images](/sessions/startingup) | Kohei Tokunaga |
 | 10:30-10:55 AM | 15:30-15:55 | [DISCUSSION: Improve Image Pulls ](/sessions/improveima) | Giuseppe Scrivano |
