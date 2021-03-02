@@ -38,6 +38,16 @@ $nav-hover-color: lighten($nav-text-color, 50%);
   }
 }
 
+/* make content wider on maximized browser on large screens */
+@media screen and (min-width: 1366px) {
+  .main-content {
+    max-width: 80rem;
+  }
+  .main-content table {
+      width: 100%;
+      display: table;
+  }
+}
 
 header.page-header {
     padding-bottom: 0;
