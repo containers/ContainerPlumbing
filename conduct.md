@@ -36,6 +36,6 @@ This Code of Conduct applies in physical and virtual spaces and in any interacti
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the [Code of Conduct response leads](mailto:admin@containerplumbing.org). At physical events, Code of Conduct response leads will be identified at the event and information on how to contact them individually will be available at the registration desk.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the [Code of Conduct response leads](mailto:jberkus@redhat.com). At physical events, Code of Conduct response leads will be identified at the event and information on how to contact them individually will be available at the registration desk.
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Event organizers are obligated to maintain confidentiality with regard to the reporter of an incident and will consult with the reporter if further action on the report is likely to make it known to anyone who they are.
