@@ -17,7 +17,7 @@ All of the presentations will be "sessions" in the HopIn conference application,
 
 All sessions will include Q&A, time permitting.  You may ask your question at any point in the Session Chat alongside the presentation.  The moderator will track these and repeat them to the speaker at the appropriate time.  If we run out of time during the session, the speaker might follow up with you in the Hallway Track.  Please adhere to the [code of conduct](/conduct).
 
-A few sessions are discussion sessions, and attendees will be encouraged to ask questions and participate aloud and by chat.  If you want to say something aloud, put "I want to make a statement aloud" or "I want to ask a question aloud" and the moderator will enable your video and mic at the appropriate time (we are strictly limited on how many people can have live mics at once).
+A few sessions are discussion sessions, and attendees will be encouraged to ask questions and participate aloud and by chat.  If you want to say something aloud, use the HopIn interface to *Request To Share Audio and Video* and the moderator will enable your video and mic at the appropriate time (we are strictly limited on how many people can have live mics at once).  Please *disable* your mic and video once you are done speaking.
 
 If you get "video streaming error", try using a different web browser.  Our apologies for failing to provide captions for most sessions; the techonology we tested for this didn't work out.
 
