@@ -11,7 +11,6 @@ Twenty terrific speakers, experts on a variety of container technologies, are jo
 | Brent Baude | Red Hat |
 | Dan Walsh | Red Hat |
 | Giuseppe Scrivano | Red Hat |
-| Josh Berkus | Red Hat |
 | Kir Kolyshin | Red Hat |
 | Kohei Tokunaga | NTT |
 | Louis DeLosSantos | Red Hat |
@@ -27,7 +26,7 @@ Twenty terrific speakers, experts on a variety of container technologies, are jo
 | Tonis Tiigi | Docker Inc |
 | Valentin Rothberg | Red Hat |
 
-Also, a big thank-you to our conference committee and volunteer moderators for the event:  Tom Sweeney, Peter Hunt, Urvashi Mohnani, Sally O'Malley, Preethi Thomas, Dan Walsh, and Josh Berkus.
+Also, a big thank-you to our conference committee and volunteer moderators for the event:  Tom Sweeney, Peter Hunt, Urvashi Mohnani, Sally O'Malley, Preethi Thomas, Dan Walsh, Mrunal Patel, and Josh Berkus.
 
 Join us for the event, and meet the speakers at their session and in the Hallway Track.
 
