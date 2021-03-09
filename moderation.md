@@ -47,6 +47,12 @@ However, note that we cannot have more than 9 people with mic enabled at the sam
 
 > Thank you for contributing.  Please disable your AV now so that others can speak.
 
+## Introducing speakers
+
+Please briefly (15 seconds) introduce each speaker before they start, if it's at all reasonable to do so.  And then disable your audio/video so you don't show up on the screen or count towards the 9 maximum.
+
+The 15 minutes before the talk are a good time to ask the speaker's name pronunciation, and their job title.
+
 ## CoC
 
 Our code of conduct [is here](https://containerplumbing.org/conduct) and is the same as DevConf.   Any regular attendee who violates it can be booted; in borderline cases, ask folks on our private moderator chat.
@@ -58,6 +64,7 @@ Most of this is on the [schedule page](https://containerplumbing.org/schedule):
 * All talks are being recorded.  Recordings will go up on the Red Hat Community youtube, and possibly elsewhere as well.
 * There is no central place for slides, that's up to each speaker.
 * If folks want a t-shirt, take the survey (see below)
+* If people get "video streaming error", the best fix is to switch browsers.  Chrome/Chromium seems to work better for most people.
 
 ## Conference Survey
 

@@ -2,7 +2,34 @@
 layout: default
 ---
 
-# Submit a Proposal
+Twenty terrific speakers, experts on a variety of container technologies, are joining us for the first Container Plumbing Days!
+
+| Speaker | Employer |
+| -------------- | ----------- |
+| Adrian Reber | Red Hat |
+| Brandon Lum | IBM |
+| Brent Baude | Red Hat |
+| Dan Walsh | Red Hat |
+| Giuseppe Scrivano | Red Hat |
+| Josh Berkus | Red Hat |
+| Kir Kolyshin | Red Hat |
+| Kohei Tokunaga | NTT |
+| Louis DeLosSantos | Red Hat |
+| Mauricio Vásquez | Kinvolk |
+| Nisha Kumar | VMware |
+| Peter Robinson | Red Hat |
+| Samuel Ortiz | Intel |
+| Sergio Lopez | Red Hat |
+| Steve Lasker | Microsoft |
+| Tammer Saleh | SuperOrbital |
+| Tao Peng | Ant Group |
+| Timothée Ravier | Red Hat  |
+| Tonis Tiigi | Docker Inc |
+| Valentin Rothberg | Red Hat |
+
+Join us for the event, and meet the speakers at their session and in the Hallway Track.
+
+<!---# Submit a Proposal
 
 ContainerPlumbing is looking for proposals around everything containers below the orchestration layer.  This includes (but is not limited to):
 
@@ -39,3 +66,4 @@ Discussion Session (50m): these sessions will be for open discussion of topics o
 ## Submit Proposal
 
 You can submit a proposal using our [CfP Form](https://forms.gle/WvezB2FDWpXGAV4y9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
+--->
