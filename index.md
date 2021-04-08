@@ -2,13 +2,10 @@
 layout: default
 ---
 
-# Save the Date!
+# Videos now online
 
-Container Plumbing Days will be **March 9-10, 2021**
+Thanks for attending Container Plumbing Days!  Videos from the program are now online.  You can find links on our [schedule](/schedule), or in the [Red Hat Community Video Channel](https://www.youtube.com/watch?v=v7XzoMZaGbY&list=PLVuc-VIfmlz1eSDhDVfAL0EbiQRvAX3gc).  Enjoy!
 
-Our [schedule](/schedule) is live!
-
-[**Register now!**](/register)
 
 ## Container Plumbing?
 
