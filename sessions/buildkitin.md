@@ -6,7 +6,7 @@
 
 **Topics**: Image Building, Containers & Virtualization, BuildKit, Docker Buildx
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/sJpthXTHVVA)
 
 ## Session Details:
 

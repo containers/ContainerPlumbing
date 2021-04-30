@@ -6,7 +6,7 @@
 
 **Topics**: Container Runtimes, CRIU, Podman, runc, crun, CRI-O
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/hQ475sOd0yw)
 
 ## Session Details:
 

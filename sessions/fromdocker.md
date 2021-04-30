@@ -6,7 +6,7 @@
 
 **Topics**: Container Runtimes, docker-compose, podman, kubernetes
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://www.youtube.com/watch?v=CxrTQnjlOsU)
 
 ## Session Details:
 

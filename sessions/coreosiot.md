@@ -6,7 +6,7 @@
 
 **Topics**: Container OS, CoreOS, Fedora, Alternate Platforms and Architectures
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/yqbnUBI-Xhk)
 
 ## Session Details:
 

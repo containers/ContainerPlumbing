@@ -6,7 +6,7 @@
 
 **Topics**: cGroups, Namespaces, Kernel, Linux Kernel
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/4SMNhlluOXk)
 
 ## Session Details:
 

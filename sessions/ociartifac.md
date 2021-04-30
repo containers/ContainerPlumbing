@@ -6,7 +6,7 @@
 
 **Topics**: Image Building, Alternate Architectures/Platforms, Image formats & standards, OCI Artifacts
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://www.youtube.com/watch?v=CxrTQnjlOsU)
 
 ## Session Details:
 

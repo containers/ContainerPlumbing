@@ -6,7 +6,7 @@
 
 **Topics**: Container Runtimes, Containers & Virtualization, Podman, systemd
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/ab-exhFQYcQ)
 
 ## Session Details:
 

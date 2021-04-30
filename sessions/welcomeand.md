@@ -6,7 +6,7 @@
 
 **Topics**: General, All
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+No video
 
 ## Session Details:
 

@@ -6,7 +6,7 @@
 
 **Topics**: Container OSes, Container/Image Security, Image Building, Image formats & standards, Secure Software Supply Chain, Tern, OCI Artifacts, Docker, ORAS, Buildah, TUF, In-Toto, Notary V2
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[Video](https://www.youtube.com/watch?v=v7XzoMZaGbY&t=2s)
 
 ## Session Details:
 

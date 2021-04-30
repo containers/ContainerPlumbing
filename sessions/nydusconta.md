@@ -6,7 +6,7 @@
 
 **Topics**: Container/Image Security, Image Building, Image formats & standards, Nydus, Dragonfly, Harbor, runc, kata-containers
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://www.youtube.com/watch?v=Hmt4BiFgN4w)
 
 ## Session Details:
 

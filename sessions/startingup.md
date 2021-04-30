@@ -6,7 +6,7 @@
 
 **Topics**: Container Runtimes, Image formats & standards, containers/storage, containers/image, Podman, CRI-O, Stargz Snapshotter, containerd, Kubernetes
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/r981cUwoD7o)
 
 ## Session Details:
 

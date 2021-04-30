@@ -6,7 +6,7 @@
 
 **Topics**: Container Runtimes, Image formats & standards, Podman, CRI-O, Skopeo
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://www.youtube.com/watch?v=Zz3ArFOL1Gk)
 
 ## Session Details:
 

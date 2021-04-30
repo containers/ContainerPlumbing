@@ -6,7 +6,7 @@
 
 **Topics**: Container Runtimes, Container/Image Security, Containers & Virtualization, Image formats & standards, containerd, CRI-O, Kata Containers, QEMU, Cloud Hypervisor
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://www.youtube.com/watch?v=o0ScKmPRAeQ)
 
 ## Session Details:
 

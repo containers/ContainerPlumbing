@@ -7,7 +7,7 @@
 
 **Topics**: Container Runtimes, Container/Image Security, cGroups, Namespaces, Kernel, Containers & Virtualization, libkrun, krunvm, podman, buildah, crun
 
-[Join this session on HopIn](https://hopin.com/events/container-plumbing-days)
+[video](https://youtu.be/4nmPC4bDJxY)
 
 ## Session Details:
 
