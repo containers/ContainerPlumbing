@@ -6,10 +6,9 @@ layout: default
 
 Container Plumbing Days will be held on the HopIn conference platform.
 
-Registration is open; please [register with HopIn here](https://hopin.com/events/container-plumbing-days).
+Registration will open February 15th.
 
-Registration is free of charge.  Additionally, attendees will have opportunities
-to obtain container project swag during the event.
+Registration is free of charge.
 
 ## Privacy Notice
 

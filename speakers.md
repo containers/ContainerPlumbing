@@ -69,4 +69,3 @@ Discussion Session (50m): these sessions will be for open discussion of topics o
 ## Submit Proposal
 
 You can submit a proposal using our [CfP Form](https://forms.gle/xXVm4KrBncw78iGa9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
---->
