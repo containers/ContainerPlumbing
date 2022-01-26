@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<!---
 Twenty terrific speakers, experts on a variety of container technologies, are joining us for the first Container Plumbing Days!
 
 | Speaker | Employer |
@@ -29,8 +30,9 @@ Twenty terrific speakers, experts on a variety of container technologies, are jo
 Also, a big thank-you to our conference committee and volunteer moderators for the event:  Tom Sweeney, Peter Hunt, Urvashi Mohnani, Sally O'Malley, Preethi Thomas, Dan Walsh, Mrunal Patel, and Josh Berkus.
 
 Join us for the event, and meet the speakers at their session and in the Hallway Track.
+--->
 
-<!---# Submit a Proposal
+# Submit a Proposal
 
 ContainerPlumbing is looking for proposals around everything containers below the orchestration layer.  This includes (but is not limited to):
 
@@ -44,17 +46,17 @@ ContainerPlumbing is looking for proposals around everything containers below th
 * Container OSes
 * Containers on non-Linux OSes
 
-Projects we want to hear about include (but are not limited to): Buildah, CRI-O, Linux cGroups & SecComp, podman, containerd, Tern, Kind, Clair, Skopeo, CoreOS, Flatcar Linux, Katacontainers, Kubevirt, OCI, and more.  Basically, if it lives below the scheduling & orchestration layer, then we're interested in hearing about it. Presented technologies should be open source.
+Projects we want to hear about include (but are not limited to): Buildah, CRI-O, Linux cGroups & SecComp, eBPF, podman, containerd, Tern, Kind, Clair, Skopeo, CoreOS, Flatcar Linux, Katacontainers, Kubevirt, OCI, and more.  Basically, if it lives below the scheduling & orchestration layer, then we're interested in hearing about it. Presented technologies should be open source.
 
-While we think that Kubernetes, Openshift, Che and similar projects are awesome, this is not the place for them.  There's lots of other conferences covering those.
+While we think that Kubernetes, Openshift, Che, Istio, and similar projects are awesome, this is not the place for them.  There's lots of other conferences covering those.
 
 By submitting a proposal, you are agreeing to the [ContainerPlumbing Code of Conduct](/conduct).
 
 ## Deadlines
 
-Please submit your proposal by February 10, 2021, at 23:59 UTC (7pm Eastern).
+Please submit your proposal by February 14, 2022, at 23:59 UTC (7pm Eastern).
 
-We will chose which proposals get selected by February 17th and inform all speakers.
+We will chose which proposals get selected by February 22nd and inform all speakers.
 
 ## Talk Formats
 
@@ -66,5 +68,5 @@ Discussion Session (50m): these sessions will be for open discussion of topics o
 
 ## Submit Proposal
 
-You can submit a proposal using our [CfP Form](https://forms.gle/WvezB2FDWpXGAV4y9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
+You can submit a proposal using our [CfP Form](https://forms.gle/xXVm4KrBncw78iGa9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
 --->
