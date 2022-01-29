@@ -39,14 +39,16 @@ ContainerPlumbing is looking for proposals around everything containers below th
 * Container runtimes, including WASM
 * Image building
 * Image scanning
+* Image transports
 * Container security and isolation
 * Virtualization inside containers
 * Containers on alternate architectures and platforms
 * Linux cgroups and other kernel features
 * Container OSes
 * Containers on non-Linux OSes
+* Containers and filesystem storage
 
-Projects we want to hear about include (but are not limited to): Buildah, CRI-O, Linux cGroups & SecComp, eBPF, podman, containerd, Tern, Kind, Clair, Skopeo, CoreOS, Flatcar Linux, Katacontainers, Kubevirt, OCI, and more.  Basically, if it lives below the scheduling & orchestration layer, then we're interested in hearing about it. Presented technologies should be open source.
+Projects we want to hear about include (but are not limited to): Buildah, CRI-O, Linux cGroups & SecComp, eBPF, podman, containerd, Tern, Kind, Clair, Skopeo, CoreOS, Flatcar Linux, Katacontainers, Kubevirt, OCI, nerdctl, and more.  Basically, if it lives below the scheduling & orchestration layer, then we're interested in hearing about it. Presented technologies should be open source.
 
 While we think that Kubernetes, Openshift, Che, Istio, and similar projects are awesome, this is not the place for them.  There's lots of other conferences covering those.
 
@@ -54,9 +56,9 @@ By submitting a proposal, you are agreeing to the [ContainerPlumbing Code of Con
 
 ## Deadlines
 
-Please submit your proposal by February 14, 2022, at 23:59 UTC (7pm Eastern).
+Please submit your proposal by February 15, 2022, at 23:59 UTC (7pm Eastern).
 
-We will chose which proposals get selected by February 22nd and inform all speakers.
+We will chose which proposals get selected by February 23rd and inform all speakers.
 
 ## Talk Formats
 
