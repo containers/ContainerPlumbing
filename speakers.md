@@ -60,7 +60,7 @@ Please submit your proposal by February 15, 2022, at 23:59 UTC (7pm Eastern).
 
 We will chose which proposals get selected by February 23rd and inform all speakers.
 
-The conference will take place March 22 and 23, from 1400 UTC to 1900 UTC each day.
+The conference will take place March 22 and 23, from 1400 UTC to 1900 UTC each day. 
 
 ## Talk Formats
 
@@ -69,6 +69,8 @@ We'll be hosting two kinds of sessions:
 Presentation Sessions (25m): this will be your normal slides/demo talking session, with 15 minutes of presentation and demo, and 10 minutes of questions from the audience.  Live demos, or even recorded video demos, are highly encouraged.  Slides are not required if you have enough demo time or other visual interest.
 
 Discussion Session (50m): these sessions will be for open discussion of topics of general technical interest, like improvements to Linux namespaces, new features for the CRI, etc.  They will be 50 minutes long.  As part of this session proposal, you will need to name at least three people who will be participating in the discussion.  Discussions will also be open to audience members.
+
+All talks should be presented live if possible. Container Plumbing is a "summit" type event, where the discussions are more important than the slides.
 
 ## Submit Proposal
 
