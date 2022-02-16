@@ -56,9 +56,9 @@ By submitting a proposal, you are agreeing to the [ContainerPlumbing Code of Con
 
 ## Deadlines
 
-Please submit your proposal by February 15, 2022, at 23:59 UTC (7pm Eastern).
+Please submit your proposal by February 21, 2022, at 23:59 UTC (7pm Eastern).
 
-We will chose which proposals get selected by February 23rd and inform all speakers.
+We will chose which proposals get selected by February 25rd and inform all speakers.
 
 The conference will take place March 22 and 23, from 1400 UTC to 1900 UTC each day. 
 
