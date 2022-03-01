@@ -3,10 +3,6 @@ layout: default
 ---
 
 
-# 2022 Event Schedule
-
-The event schedule for Container Plumbing 2 will be announced by February 23rd, 2022.
-
 ## 2021 Videos
 
 Below is the list of sessions from 2021, along with linked videos from all sessions.

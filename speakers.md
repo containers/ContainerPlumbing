@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Container Plumbing Days 2022 has been postponed, see the home page for details.
+
 <!---
 Twenty terrific speakers, experts on a variety of container technologies, are joining us for the first Container Plumbing Days!
 
@@ -32,6 +34,7 @@ Also, a big thank-you to our conference committee and volunteer moderators for t
 Join us for the event, and meet the speakers at their session and in the Hallway Track.
 --->
 
+<!---
 # Submit a Proposal
 
 ContainerPlumbing is looking for proposals around everything containers below the orchestration layer.  This includes (but is not limited to):
@@ -75,3 +78,4 @@ All talks should be presented live if possible. Container Plumbing is a "summit"
 ## Submit Proposal
 
 You can submit a proposal using our [CfP Form](https://forms.gle/xXVm4KrBncw78iGa9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
+--->
