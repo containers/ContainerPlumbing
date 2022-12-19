@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Container Plumbing Days 2022 has been postponed, see the home page for details.
-
 <!---
 Twenty terrific speakers, experts on a variety of container technologies, are joining us for the first Container Plumbing Days!
 
@@ -34,7 +32,6 @@ Also, a big thank-you to our conference committee and volunteer moderators for t
 Join us for the event, and meet the speakers at their session and in the Hallway Track.
 --->
 
-<!---
 # Submit a Proposal
 
 ContainerPlumbing is looking for proposals around everything containers below the orchestration layer.  This includes (but is not limited to):
@@ -59,9 +56,9 @@ By submitting a proposal, you are agreeing to the [ContainerPlumbing Code of Con
 
 ## Deadlines
 
-Please submit your proposal by February 21, 2022, at 23:59 UTC (7pm Eastern).
+Please submit your proposal by January 23, 2023, at 23:59 UTC (7pm Eastern).
 
-We will chose which proposals get selected by February 25rd and inform all speakers.
+We will chose which proposals get selected by February 8th and inform all speakers.
 
 The conference will take place March 22 and 23, from 1400 UTC to 1900 UTC each day. 
 
@@ -69,13 +66,14 @@ The conference will take place March 22 and 23, from 1400 UTC to 1900 UTC each d
 
 We'll be hosting two kinds of sessions:
 
-Presentation Sessions (25m): this will be your normal slides/demo talking session, with 15 minutes of presentation and demo, and 10 minutes of questions from the audience.  Live demos, or even recorded video demos, are highly encouraged.  Slides are not required if you have enough demo time or other visual interest.
+Presentation Session (25m): this will be your normal slides/demo talking session, with 15 minutes of presentation and demo, and 10 minutes of questions from the audience.  Live demos, or even recorded video demos, are highly encouraged.  Slides are not required if you have enough demo time or other visual interest.
 
 Discussion Session (50m): these sessions will be for open discussion of topics of general technical interest, like improvements to Linux namespaces, new features for the CRI, etc.  They will be 50 minutes long.  As part of this session proposal, you will need to name at least three people who will be participating in the discussion.  Discussions will also be open to audience members.
+
+Lightning Talk (5m): A very brief presentation on a single topic, technology, or question. Plan on just a few slides or a single-feature demo (but not both).
 
 All talks should be presented live if possible. Container Plumbing is a "summit" type event, where the discussions are more important than the slides.
 
 ## Submit Proposal
 
-You can submit a proposal using our [CfP Form](https://forms.gle/xXVm4KrBncw78iGa9).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.
---->
+You can submit a proposal using our [CfP Form](https://forms.gle/5qwX72dhNqWZ4reh6).  Contact [event admin](mailto:jberkus@redhat.com) if you have issues with submitting.

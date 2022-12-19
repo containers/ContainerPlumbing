@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Container Plumbing Days Postponed
+## Container Plumbing Days 2023
 
-Due to circumstances beyond our control, Container Plumbing Days 2022 has been postponed.  We will share more information when the event is rescheduled.
+After a year of postponement, Container Plumbing Days is *back*!
+
+In 2023, we're going to have a two-day virtual event full of container runtime hacking, image building, alternate platforms, and more.
+
+Join us!  But first, submit a proposal!
 
 ## Container Plumbing?
 
-Contaienr Plumbing Days is a 2-day event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
+Container Plumbing Days is a 2-day online event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
 
 You can see the kind of sessions we had in 2021 in the [Red Hat Community Video channel](https://www.youtube.com/watch?v=v7XzoMZaGbY&list=PLVuc-VIfmlz1eSDhDVfAL0EbiQRvAX3gc).
 
