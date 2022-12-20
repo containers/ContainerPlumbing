@@ -8,7 +8,7 @@ After a year of postponement, Container Plumbing Days is *back*!
 
 In 2023, we're going to have a two-day virtual event full of container runtime hacking, image building, alternate platforms, and more.
 
-Join us!  But first, submit a proposal!
+Join us!  But first, [submit a proposal](/speakers)!
 
 ## Container Plumbing?
 
