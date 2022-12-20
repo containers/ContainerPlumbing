@@ -6,7 +6,7 @@ layout: default
 
 After a year of postponement, Container Plumbing Days is *back*!
 
-In 2023, we're going to have a two-day virtual event full of container runtime hacking, image building, alternate platforms, and more.
+In 2023, we're going to have a two-day virtual event full of container runtime hacking, image building, alternate platforms, and more.  It will take place March 22nd and 23rd, from around 1300 UTC to 1800 UTC.
 
 Join us!  But first, [submit a proposal](/speakers)!
 
