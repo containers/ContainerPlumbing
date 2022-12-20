@@ -1,2 +1,2 @@
 # ContainerPlumbing
-Container Plumbing Conference information.
+A conference devoted to the "lower layers" of the Container Cloud
