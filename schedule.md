@@ -13,7 +13,7 @@ Videos of last event's sessions are available on our [Videos Page](/videos).
 
 ## March 22
 
-| EST time | UTC time | Session Title | Session Leader(s) |
+| UTC time | EDT time | Session Title | Session Leader(s) |
 | -------- | -------- | ------------- | ----------------- |
 | 13:00 | 9:00 | Intro & Welcome | TBD | 
 | 13:30 | 9:30 | Podman Desktop - Simplifying the experience working with containers and Kubernetes | Stevan Le Meur, Florent Benoit | 
@@ -28,7 +28,7 @@ Videos of last event's sessions are available on our [Videos Page](/videos).
 
 ## March 23
 
-| EST time | UTC time | Session Title | Session Leader(s) |
+| UTC time | EDT time | Session Title | Session Leader(s) |
 | -------- | ------ | ---------------------------------------- | ---------- |
 | 13:00 | 9:00 | Compose to Kubernetes: Caveats, interoperability and transformations | Charlie Drage |
 | 13:07 | 9:07 | Hash-based detection of confidential files in container images | Holger Gantikow, Kevin Kaftan |
