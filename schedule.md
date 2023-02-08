@@ -3,28 +3,46 @@ layout: default
 ---
 
 
-## 2021 Videos
+## DRAFT 2023 Schedule
 
-Below is the list of sessions from 2021, along with linked videos from all sessions.
+This is the **draft** schedule for Container Plumbing 2023.  Not all sessions have been confirmed.  Both the times and the selections may change slightly before Container Plumbing goes live.
 
-| EST time | UTC time | Session Title | Session Leader |
+A fully confirmed schedule should be available by February 15th.
+
+Videos of last event's sessions are available on our [Videos Page](/videos).
+
+## March 22
+
+| EST time | UTC time | Session Title | Session Leader(s) |
+| -------- | -------- | ------------- | ----------------- |
+| 13:00 | 9:00 | Intro & Welcome | TBD | 
+| 13:30 | 9:30 | Podman Desktop - Simplifying the experience working with containers and Kubernetes | Stevan Le Meur, Florent Benoit | 
+| 14:00 | 10:00 | Testing Container Images with Python and Pytest | Dan Čermák | 
+| 14:30 | 10:30 | vfkit - a minimal hypervisor using Apple's virtualization framework | Christophe Fergeau | 
+| 15:00 | 11:00 | Container IMA using eBPF | Avery Blanchard, Lily Sturmann | 
+| 15:30 | 11:30 | Management of Long-lived Servers: The Missing Bits for Avoiding Config Drift with Declarative Configuration and Image-based Updates | Kai Lüke | 
+| 16:00 | 12:00 | State of OCI | Scott McCarty | 
+| 16:30 | 12:30 | Introduction to NRI | Krisztian Litkey, Peter Hunt | 
+| 17:00 | 13:00 | Windows containers: The forgotten stepchild | Jamie Magee | 
+| 17:30 | 13:30 | When Podman Desktop Eats, CLI Dwellers Eat Too | Urvashi Mohnani, Ashley Cui |
+
+## March 23
+
+| EST time | UTC time | Session Title | Session Leader(s) |
 | -------- | ------ | ---------------------------------------- | ---------- |
-| [MAIN STAGE: Welcome and Logistics](/sessions/welcomeand)([video]()) | Dan Walsh |
-| [DISCUSSION: New Kernel Features for Containers](/sessions/newkernelf)([video](https://youtu.be/eyPkTye-D0U)) | Giuseppe Scrivano |
-| [Podman and systemd – the Why, the What, and the How](/sessions/podmanands)([video](https://youtu.be/ab-exhFQYcQ)) | Valentin Rothberg |
-| [Lightweight Virtualization-Based Isolation Using libkrun](/sessions/lightweigh)([video](https://youtu.be/4nmPC4bDJxY)) | Sergio Lopez |
-| [Container Migration News](/sessions/containerm)([video](https://youtu.be/hQ475sOd0yw)) | Adrian Reber |
-| [Spooky Filesystems](/sessions/spookyfile)([video](https://youtu.be/4SMNhlluOXk)) | Tammer Saleh |
-| [Challenges of Using User Namespaces at Big Scale](/sessions/challenges)([video](https://youtu.be/D9rHAleTYnE)) | Mauricio Vásquez |
-| [OCI Artifacts: Adding Support for Reference Types](/sessions/ociartifac)([video](https://www.youtube.com/watch?v=CxrTQnjlOsU)) | Steve Lasker |
-| [Nydus: Container Image Acceleration with E2E Data Integrity](/sessions/nydusconta)([video](https://www.youtube.com/watch?v=Hmt4BiFgN4w)) | Tao Peng |
-| [Starting up Containers Super Fast With Lazy Pulling of Images](/sessions/startingup)([video](https://youtu.be/r981cUwoD7o)) | Kohei Tokunaga |
-| [DISCUSSION: Improve Image Pulls ](/sessions/improveima)([video](https://www.youtube.com/watch?v=Zz3ArFOL1Gk)) | Giuseppe Scrivano |
-| [Fedora CoreOS or Fedora IoT?](/sessions/coreosiot)([video](https://youtu.be/yqbnUBI-Xhk)) | Peter Robinson |
-| [Zero Trust: Running Confidential Computing Containers](/sessions/zerotrustr)([video](https://www.youtube.com/watch?v=o0ScKmPRAeQ)) | Samuel Ortiz |
-| [BuildKit: Intro to the Architecture of a Modern Build Framework](/sessions/buildkitin)([video](https://youtu.be/sJpthXTHVVA)) | Tonis Tiigi |
-| [From Docker Compose to Kubernetes with Podman](/sessions/fromdocker)([video](https://www.youtube.com/watch?v=CxrTQnjlOsU)) | Brent Baude |
-| [DISCUSSION: Secure Container Supply Chain - Considerations, Tools, and Gaps](/sessions/securecont)([video](https://youtu.be/v7XzoMZaGbY)) | Nisha Kumar |
+| 13:00 | 9:00 | Compose to Kubernetes: Caveats, interoperability and transformations | Charlie Drage |
+| 13:07 | 9:07 | Hash-based detection of confidential files in container images | Holger Gantikow, Kevin Kaftan |
+| 13:15 | 9:15 | Terminating in the name of eBPF | Holger Gantikow, Cedric Casper |
+| 13:22 | 9:22 | Building an oomkill-exporter powered by eBPF in 5 minutes | Krisztian Fekete |
+| 13:30 | 9:30 | Running Confidential Workloads with Podman | Sergio Lopez |
+| 14:00 | 10:00 | Get ready for Arm64 and an ARMful of container build cases | Syl Taylor, Ovidiu Valeanu |
+| 14:30 | 10:30 | Why was nerdctl made? | Akihiro Suda |
+| 15:00 | 11:00 | WASM/WASI and Cloud Ecosystem | Aditya R, Giuseppe Scrivano |
+| 15:30 | 11:30 | Modifying the Immutable: Attaching Artifacts to OCI Images | Brandon Mitchell |
+| 16:00 | 12:00 | bootc - A new project for bootable containers | Colin Walters |
+| 16:30 | 12:30 | Finch: Streamlining Container Development with an Open Source stack | Ziwen Ning, Chandru Pokala |
+| 17:00 | 13:00 | Future of CRI and Runtimes Discussion | Mrunal Patel, Peter Hunt, Alexander Kanevskiy, Sascha Grunet, Michael Brown |
+
 
 <!--
 [Please join us](/register)!
