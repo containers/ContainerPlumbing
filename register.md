@@ -15,7 +15,7 @@ Registration is free of charge.
 Only our event organizers will see your full, detailed registration, but summary
 demographic information may be shared with our sponsors. As an
 attendee, your name will not be traded or sold.  You may receive notification
-of additional, related events held by our sponsor, Red Hat. To remove your data
+of additional, related events held by our sponsors, Red Hat and the OCI. To remove your data
 from our records, please [email us](mailto:jberkus@redhat.com)
 
 You may receive additional notices from HopIn after you create a HopIn account;

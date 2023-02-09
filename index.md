@@ -31,6 +31,10 @@ Concepts we will explore include:
 
 The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, WASM, and many others.  If your project involves lower-level container resources, consider proposing a session!
 
+## Conduct
+
+All attendees and speakers at Container Plumbing are subject to our [Code of Conduct](/conduct)
+
 ## Sponsors
 
 Container Plumbing Days is sponsored by [Red Hat](https://www.redhat.com/en/technologies/cloud-computing/openshift) and the [Open Container Initiative](https://opencontainers.org/).
