@@ -7,8 +7,8 @@ layout: default
 
 Below is the list of sessions from 2021, along with linked videos from all sessions.
 
-| EST time | UTC time | Session Title | Session Leader |
-| -------- | ------ | ---------------------------------------- | ---------- |
+| Session Title | Session Leader |
+| ---------------------------------------- | ---------- |
 | [MAIN STAGE: Welcome and Logistics](/sessions/welcomeand)([video]()) | Dan Walsh |
 | [DISCUSSION: New Kernel Features for Containers](/sessions/newkernelf)([video](https://youtu.be/eyPkTye-D0U)) | Giuseppe Scrivano |
 | [Podman and systemd – the Why, the What, and the How](/sessions/podmanands)([video](https://youtu.be/ab-exhFQYcQ)) | Valentin Rothberg |
