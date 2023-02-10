@@ -9,22 +9,22 @@ Below is the list of sessions from 2021, along with linked videos from all sessi
 
 | Session Title | Session Leader |
 | ---------------------------------------- | ---------- |
-| [MAIN STAGE: Welcome and Logistics](/sessions/welcomeand)([video]()) | Dan Walsh |
-| [DISCUSSION: New Kernel Features for Containers](/sessions/newkernelf)([video](https://youtu.be/eyPkTye-D0U)) | Giuseppe Scrivano |
-| [Podman and systemd – the Why, the What, and the How](/sessions/podmanands)([video](https://youtu.be/ab-exhFQYcQ)) | Valentin Rothberg |
-| [Lightweight Virtualization-Based Isolation Using libkrun](/sessions/lightweigh)([video](https://youtu.be/4nmPC4bDJxY)) | Sergio Lopez |
-| [Container Migration News](/sessions/containerm)([video](https://youtu.be/hQ475sOd0yw)) | Adrian Reber |
-| [Spooky Filesystems](/sessions/spookyfile)([video](https://youtu.be/4SMNhlluOXk)) | Tammer Saleh |
-| [Challenges of Using User Namespaces at Big Scale](/sessions/challenges)([video](https://youtu.be/D9rHAleTYnE)) | Mauricio Vásquez |
-| [OCI Artifacts: Adding Support for Reference Types](/sessions/ociartifac)([video](https://www.youtube.com/watch?v=CxrTQnjlOsU)) | Steve Lasker |
-| [Nydus: Container Image Acceleration with E2E Data Integrity](/sessions/nydusconta)([video](https://www.youtube.com/watch?v=Hmt4BiFgN4w)) | Tao Peng |
-| [Starting up Containers Super Fast With Lazy Pulling of Images](/sessions/startingup)([video](https://youtu.be/r981cUwoD7o)) | Kohei Tokunaga |
-| [DISCUSSION: Improve Image Pulls ](/sessions/improveima)([video](https://www.youtube.com/watch?v=Zz3ArFOL1Gk)) | Giuseppe Scrivano |
-| [Fedora CoreOS or Fedora IoT?](/sessions/coreosiot)([video](https://youtu.be/yqbnUBI-Xhk)) | Peter Robinson |
-| [Zero Trust: Running Confidential Computing Containers](/sessions/zerotrustr)([video](https://www.youtube.com/watch?v=o0ScKmPRAeQ)) | Samuel Ortiz |
-| [BuildKit: Intro to the Architecture of a Modern Build Framework](/sessions/buildkitin)([video](https://youtu.be/sJpthXTHVVA)) | Tonis Tiigi |
-| [From Docker Compose to Kubernetes with Podman](/sessions/fromdocker)([video](https://www.youtube.com/watch?v=CxrTQnjlOsU)) | Brent Baude |
-| [DISCUSSION: Secure Container Supply Chain - Considerations, Tools, and Gaps](/sessions/securecont)([video](https://youtu.be/v7XzoMZaGbY)) | Nisha Kumar |
+| [MAIN STAGE: Welcome and Logistics](/sessions/2021/welcomeand) ([video]()) | Dan Walsh |
+| [DISCUSSION: New Kernel Features for Containers](/sessions/2021/newkernelf) ([video](https://youtu.be/eyPkTye-D0U)) | Giuseppe Scrivano |
+| [Podman and systemd – the Why, the What, and the How](/sessions/2021/podmanands) ([video](https://youtu.be/ab-exhFQYcQ)) | Valentin Rothberg |
+| [Lightweight Virtualization-Based Isolation Using libkrun](/sessions/2021/lightweigh) ([video](https://youtu.be/4nmPC4bDJxY)) | Sergio Lopez |
+| [Container Migration News](/sessions/2021/containerm) ([video](https://youtu.be/hQ475sOd0yw)) | Adrian Reber |
+| [Spooky Filesystems](/sessions/2021/spookyfile) ([video](https://youtu.be/4SMNhlluOXk)) | Tammer Saleh |
+| [Challenges of Using User Namespaces at Big Scale](/sessions/2021/challenges) ([video](https://youtu.be/D9rHAleTYnE)) | Mauricio Vásquez |
+| [OCI Artifacts: Adding Support for Reference Types](/sessions/2021/ociartifac) ([video](https://www.youtube.com/watch?v=CxrTQnjlOsU)) | Steve Lasker |
+| [Nydus: Container Image Acceleration with E2E Data Integrity](/sessions/2021/nydusconta) ([video](https://www.youtube.com/watch?v=Hmt4BiFgN4w)) | Tao Peng |
+| [Starting up Containers Super Fast With Lazy Pulling of Images](/sessions/2021/startingup) ([video](https://youtu.be/r981cUwoD7o)) | Kohei Tokunaga |
+| [DISCUSSION: Improve Image Pulls ](/sessions/2021/improveima) ([video](https://www.youtube.com/watch?v=Zz3ArFOL1Gk)) | Giuseppe Scrivano |
+| [Fedora CoreOS or Fedora IoT?](/sessions/2021/coreosiot) ([video](https://youtu.be/yqbnUBI-Xhk)) | Peter Robinson |
+| [Zero Trust: Running Confidential Computing Containers](/sessions/2021/zerotrustr) ([video](https://www.youtube.com/watch?v=o0ScKmPRAeQ)) | Samuel Ortiz |
+| [BuildKit: Intro to the Architecture of a Modern Build Framework](/sessions/2021/buildkitin) ([video](https://youtu.be/sJpthXTHVVA)) | Tonis Tiigi |
+| [From Docker Compose to Kubernetes with Podman](/sessions/2021/fromdocker) ([video](https://www.youtube.com/watch?v=CxrTQnjlOsU)) | Brent Baude |
+| [DISCUSSION: Secure Container Supply Chain - Considerations, Tools, and Gaps](/sessions/2021/securecont) ([video](https://youtu.be/v7XzoMZaGbY)) | Nisha Kumar |
 
 <!--
 [Please join us](/register)!

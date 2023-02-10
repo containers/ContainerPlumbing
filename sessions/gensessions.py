@@ -5,6 +5,11 @@ import argparse
 import os
 import re
 
+# Generate session descriptions for the conference.  Creates them one per file
+# in a year folder.  Expects a CSV with the following columns:
+# Title, Presenter, Co-Presenters, Company, Session Type, Track, Projects, Description
+# Expects to be run from the sessions folder
+
 arg = argparse.ArgumentParser()
 arg.add_argument("-f", "--file", help="sessions csv file", required=True)
 arg.add_argument("-y", "--year", help="four-digit year", required=True)
