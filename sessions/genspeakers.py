@@ -5,7 +5,7 @@ import argparse
 import os
 import re
 
-# Generate session links for the conference.  Outputs a links.md file.
+# Generate speakers list for the conference.  Outputs a speakers.md file.
 #  Expects a CSV with the following columns:
 # Title, Presenter, Co-Presenters, Company, Session Type, Track, Projects, Description
 
@@ -14,17 +14,20 @@ arg.add_argument("-f", "--file", help="sessions csv file", required=True)
 arg.add_argument("-y", "--year", help="four-digit year", required=False)
 args = arg.parse_args()
     
-links = open('links.md','w')
+speakers = {}
 
 with open(args.file) as csvfile:
     sessreader = csv.reader(csvfile)
     for sess in sessreader:
-        sessname = (re.sub(r'\W+', '_', sess[0])).lower()[:16]
-        sesspath = f"/sessions/{args.year}/{sessname}"
-        sesslink = f"[{sess[0]}]({sesspath})\n"
-        links.write(sesslink)
+        speakers[sess[1]] = sess[3]
+        cospks = sess[2].split(sep=',')
+        for cospk in cospks:
+            speakers[cospk.strip()] = sess[3]
 
-links.close()
-        
+with open('speakers.md','w') as spk:
+    spk.write("|       Speaker         |  Affiliation  |\n")
+    spk.write("| --------------------- | ------------- |\n")
+    for speaker, company in sorted(speakers.items()):
+        spk.write(f"| {speaker} | {company} |\n")
 
 print("done")
