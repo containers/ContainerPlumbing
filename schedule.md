@@ -17,10 +17,10 @@ Videos of last event's sessions are available on our [Videos Page](/videos).
 | -------- | -------- | ------------- | ----------------- |
 | 13:00 | 9:00 | Intro & Welcome | TBD | 
 | 13:30 | 9:30 | [Podman Desktop - Simplifying the experience working with containers and Kubernetes](https://containerplumbing.org/sessions/2023/podman_desktop_s) | Stevan Le Meur, Florent Benoit | 
-| 14:00 | 10:00 | [Testing Container Images with Python and Pytest](https://containerplumbing.org/sessions/2023/testing_containe) | Dan Čermák | 
+| 14:00 | 10:00 | [Management of Long-lived Servers: The Missing Bits for Avoiding Config Drift with Declarative Configuration and Image-based Updates](https://containerplumbing.org/sessions/2023/management_of_lo) | Kai Lüke |
 | 14:30 | 10:30 | [vfkit - a minimal hypervisor using Apple's virtualization framework](https://containerplumbing.org/sessions/2023/vfkit_a_minimal_) | Christophe Fergeau | 
 | 15:00 | 11:00 | [Container IMA using eBPF](https://containerplumbing.org/sessions/2023/container_ima_us) | Avery Blanchard, Lily Sturmann | 
-| 15:30 | 11:30 | [Management of Long-lived Servers: The Missing Bits for Avoiding Config Drift with Declarative Configuration and Image-based Updates](https://containerplumbing.org/sessions/2023/management_of_lo) | Kai Lüke | 
+| 15:30 | 11:30 | [Testing Container Images with Python and Pytest](https://containerplumbing.org/sessions/2023/testing_containe) | Dan Čermák | 
 | 16:00 | 12:00 | [State of OCI](https://containerplumbing.org/sessions/2023/state_of_oci) | Scott McCarty | 
 | 16:30 | 12:30 | [Introduction to NRI](https://containerplumbing.org/sessions/2023/introduction_to_) | Krisztian Litkey, Peter Hunt | 
 | 17:00 | 13:00 | [Windows containers: The forgotten stepchild](https://containerplumbing.org/sessions/2023/windows_containe) | Jamie Magee | 
