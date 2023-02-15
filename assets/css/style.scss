@@ -51,7 +51,7 @@ $nav-hover-color: lighten($nav-text-color, 50%);
 
 header.page-header {
     padding-bottom: 0;
-    background: linear-gradient(0deg, $header-bg-color, $header-bg-color-secondary 40%, $header-bg-color);
+    background: linear-gradient(0deg, $header-bg-color, $header-bg-color-secondary, $header-bg-color);
 }
 
 h2.project-tagline {
