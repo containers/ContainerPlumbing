@@ -4,8 +4,8 @@
 
 /* Headers */
 $header-heading-color: #ffffff;
-$header-bg-color: #33333f;
-$header-bg-color-secondary: #111120;
+$header-bg-color: #4f5972;
+$header-bg-color-secondary: #2e2e36;
 
 /* Text */
 $section-headings-color: #003377;
@@ -51,7 +51,7 @@ $nav-hover-color: lighten($nav-text-color, 50%);
 
 header.page-header {
     padding-bottom: 0;
-    background: linear-gradient(0deg, $header-bg-color, $header-bg-color-secondary, $header-bg-color);
+    background: linear-gradient(0deg, $header-bg-color, $header-bg-color-secondary 40%, $header-bg-color);
 }
 
 h2.project-tagline {
