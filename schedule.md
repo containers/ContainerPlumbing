@@ -13,7 +13,7 @@ Videos of last event's sessions are available on our [Videos Page](/videos).
 
 | UTC time | EDT time | Session Title                                                                                                                                                                                       | Session Leader(s) |
 | -------- | -------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ----------------- |
-| 13:00 | 9:00 | Intro & Welcome                                                                                                                                                                                     | TBD | 
+| 13:00 | 9:00 | Intro & Welcome                                                                                                                                                                                     | Brent Baude | 
 | 13:30 | 9:30 | [Podman Desktop - Simplifying the experience working with containers and Kubernetes](https://containerplumbing.org/sessions/2023/podman_desktop_s)                                                  | Stevan Le Meur, Florent Benoit | 
 | 14:00 | 10:00 | [Management of Long-lived Servers: The Missing Bits for Avoiding Config Drift with Declarative Configuration and Image-based Updates](https://containerplumbing.org/sessions/2023/management_of_lo) | Kai Lüke |
 | 14:30 | 10:30 | [vfkit - a minimal hypervisor using Apple's virtualization framework](https://containerplumbing.org/sessions/2023/vfkit_a_minimal_)                                                                 | Christophe Fergeau | 
