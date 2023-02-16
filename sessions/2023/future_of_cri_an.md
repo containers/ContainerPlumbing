@@ -1,6 +1,6 @@
 # Future of CRI and Container Runtimes 
 
-**Presenters**: Mrunal Patel, Peter Hunt, Alexander Kanevskiy, Sascha Grunet, Michael Brown (Varies)
+**Presenters**: Mrunal Patel (Red Hat), Peter Hunt (Red Hat), Alexander Kanevskiy (Intel), Sascha Grunet (Red Hat), Michael Brown (IBM)
 
 **Session Type:** Discussion
 
