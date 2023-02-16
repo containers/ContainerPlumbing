@@ -3,28 +3,26 @@ layout: default
 ---
 
 
-## DRAFT 2023 Schedule
+## 2023 Schedule
 
-This is the **draft** schedule for Container Plumbing 2023.  Not all sessions have been confirmed.  Both the times and the selections may change slightly before Container Plumbing goes live.
-
-A fully confirmed schedule should be available by February 15th.
+This is the final schedule for Container Plumbing 2023. 
 
 Videos of last event's sessions are available on our [Videos Page](/videos).
 
 ## March 22
 
-| UTC time | EDT time | Session Title | Session Leader(s) |
-| -------- | -------- | ------------- | ----------------- |
-| 13:00 | 9:00 | Intro & Welcome | TBD | 
-| 13:30 | 9:30 | [Podman Desktop - Simplifying the experience working with containers and Kubernetes](https://containerplumbing.org/sessions/2023/podman_desktop_s) | Stevan Le Meur, Florent Benoit | 
+| UTC time | EDT time | Session Title                                                                                                                                                                                       | Session Leader(s) |
+| -------- | -------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ----------------- |
+| 13:00 | 9:00 | Intro & Welcome                                                                                                                                                                                     | TBD | 
+| 13:30 | 9:30 | [Podman Desktop - Simplifying the experience working with containers and Kubernetes](https://containerplumbing.org/sessions/2023/podman_desktop_s)                                                  | Stevan Le Meur, Florent Benoit | 
 | 14:00 | 10:00 | [Management of Long-lived Servers: The Missing Bits for Avoiding Config Drift with Declarative Configuration and Image-based Updates](https://containerplumbing.org/sessions/2023/management_of_lo) | Kai Lüke |
-| 14:30 | 10:30 | [vfkit - a minimal hypervisor using Apple's virtualization framework](https://containerplumbing.org/sessions/2023/vfkit_a_minimal_) | Christophe Fergeau | 
-| 15:00 | 11:00 | [Container IMA using eBPF](https://containerplumbing.org/sessions/2023/container_ima_us) | Avery Blanchard, Lily Sturmann | 
-| 15:30 | 11:30 | [Testing Container Images with Python and Pytest](https://containerplumbing.org/sessions/2023/testing_containe) | Dan Čermák | 
-| 16:00 | 12:00 | [State of OCI](https://containerplumbing.org/sessions/2023/state_of_oci) | Scott McCarty | 
-| 16:30 | 12:30 | [Introduction to NRI](https://containerplumbing.org/sessions/2023/introduction_to_) | Krisztian Litkey, Peter Hunt | 
-| 17:00 | 13:00 | [Windows containers: The forgotten stepchild](https://containerplumbing.org/sessions/2023/windows_containe) | Jamie Magee | 
-| 17:30 | 13:30 | When Podman Desktop Eats, CLI Dwellers Eat Too | Urvashi Mohnani, Ashley Cui |
+| 14:30 | 10:30 | [vfkit - a minimal hypervisor using Apple's virtualization framework](https://containerplumbing.org/sessions/2023/vfkit_a_minimal_)                                                                 | Christophe Fergeau | 
+| 15:00 | 11:00 | [Container IMA using eBPF](https://containerplumbing.org/sessions/2023/container_ima_us)                                                                                                            | Avery Blanchard, Lily Sturmann | 
+| 15:30 | 11:30 | [Testing Container Images with Python and Pytest](https://containerplumbing.org/sessions/2023/testing_containe)                                                                                     | Dan Čermák | 
+| 16:00 | 12:00 | [State of OCI](https://containerplumbing.org/sessions/2023/state_of_oci)                                                                                                                            | Scott McCarty | 
+| 16:30 | 12:30 | [Introduction to NRI](https://containerplumbing.org/sessions/2023/introduction_to_)                                                                                                                 | Krisztian Litkey, Peter Hunt | 
+| 17:00 | 13:00 | [Windows containers: The forgotten stepchild](https://containerplumbing.org/sessions/2023/windows_containe)                                                                                         | Jamie Magee | 
+| 17:30 | 13:30 | [When Podman Desktop Eats, CLI Dwellers Eat Too](https://containerplumbing.org/sessions/2023/when_podman_desktop_eats)                                                                              | Urvashi Mohnani, Ashley Cui |
 
 ## March 23
 
