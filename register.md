@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Registration
+# Registration is open
 
-Container Plumbing Days will be held on the HopIn conference platform.
+Container Plumbing Days will be held on the Hopin conference platform.
 
-Registration will open February 15th.
+Registration is open and free of charge! You can register **on [the Hopin platform](https://hopin.com/events/container-plumbing-days-2023-14e3f628-c5d2-42ac-80e8-451dae77b00d?code=Twc4WGq8ihqNoYbUA2BnnYCyY)**.
 
-Registration is free of charge.
+
 
 ## Privacy Notice
 
@@ -18,5 +18,5 @@ attendee, your name will not be traded or sold.  You may receive notification
 of additional, related events held by our sponsors, Red Hat and the OCI. To remove your data
 from our records, please [email us](mailto:jberkus@redhat.com)
 
-You may receive additional notices from HopIn after you create a HopIn account;
-[contact HopIn](https://hopin.com/privacy) for the removal of your data.
+You may receive additional notices from Hopin after you create a Hopin account;
+[contact Hopin](https://hopin.com/privacy) for the removal of your data.
