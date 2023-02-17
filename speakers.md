@@ -41,35 +41,8 @@ Thirty two terrific speakers, experts on a variety of container technologies, ar
 | Michael Brown | IBM |
 
 Join us for the event, and meet the speakers at [their session](https://containerplumbing.org/schedule).
-<!---
-Twenty terrific speakers, experts on a variety of container technologies, are joining us for the first Container Plumbing Days!
 
-| Speaker | Employer |
-| -------------- | ----------- |
-| Adrian Reber | Red Hat |
-| Brandon Lum | IBM |
-| Brent Baude | Red Hat |
-| Dan Walsh | Red Hat |
-| Giuseppe Scrivano | Red Hat |
-| Kir Kolyshin | Red Hat |
-| Kohei Tokunaga | NTT |
-| Louis DeLosSantos | Red Hat |
-| Mauricio Vásquez | Kinvolk |
-| Nisha Kumar | VMware |
-| Peter Robinson | Red Hat |
-| Samuel Ortiz | Intel |
-| Sergio Lopez | Red Hat |
-| Steve Lasker | Microsoft |
-| Tammer Saleh | SuperOrbital |
-| Tao Peng | Ant Group |
-| Timothée Ravier | Red Hat  |
-| Tonis Tiigi | Docker Inc |
-| Valentin Rothberg | Red Hat |
 
-Also, a big thank-you to our conference committee and volunteer moderators for the event:  Tom Sweeney, Peter Hunt, Urvashi Mohnani, Sally O'Malley, Preethi Thomas, Dan Walsh, Mrunal Patel, and Josh Berkus.
-
-Join us for the event, and meet the speakers at their session and in the Hallway Track.
---->
 
 <!---
 # Submit a Proposal
