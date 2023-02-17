@@ -2,8 +2,45 @@
 layout: default
 ---
 
-The CfP is now closed.  We will be announcing the speakers on February 15th.
+Thirty two terrific speakers, experts on a variety of container technologies, are joining us for the second Container Plumbing Days!
 
+| Speaker | Employer |
+| -------------- | ----------- |
+| Brent Baude | Red Hat |
+| Stevan Le Meur | Red Hat |
+| Florent Benoit | Red Hat |
+| Dan Čermák | SUSE |
+| Christophe Fergeau | Red Hat |
+| Avery Blanchard | Red Hat |
+| Lily Sturmann | Red Hat |
+| Kai Lüke | Microsoft |
+| Scott McCarty | Red Hat |
+| Krisztian Litkey | Intel |
+| Peter Hunt | Red Hat |
+| Jamie Magee | Microsoft |
+| Urvashi Mohnani | Red Hat |
+| Ashley Cui | Red Hat |
+| Charlie Drage | Red Hat |
+| Holger Gantikow | Atos |
+| Kevin Kaftan | Atos |
+| Cedric Casper| Atos |
+| Krisztian Fekete | solo.io |
+| Sergio Lopez | Red Hat |
+| Syl Taylor | Amazon Web Services |
+| Ovidiu Valeanu | Amazon Web Services |
+| Akihiro Suda | NTT |
+| Aditya Rajan | Red Hat |
+| Giuseppe Scrivano | Red Hat |
+| Brandon Mitchell | BoxBoat |
+| Colin Walters | Red Hat |
+| Ziwen Ning | Amazon Web Services |
+| Chandru Pokala | Amazon Web Services |
+| Mrunal Patel | Red Hat |
+| Alexander Kanevskiy | Intel |
+| Sascha Grunert | Red Hat |
+| Michael Brown | IBM |
+
+Join us for the event, and meet the speakers at [their session](https://containerplumbing.org/schedule).
 <!---
 Twenty terrific speakers, experts on a variety of container technologies, are joining us for the first Container Plumbing Days!
 
