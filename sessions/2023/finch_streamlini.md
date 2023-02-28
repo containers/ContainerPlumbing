@@ -4,7 +4,7 @@
 
 **Session Type:** Presentation (25min)
 
-**Topics**: Container Runtimes, Image Building, Containers & Virtualization, Finch, Finch
+**Topics**: Container Runtimes, Image Building, Containers & Virtualization, Finch
 
 ## Session Details:
 
