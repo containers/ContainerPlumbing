@@ -40,8 +40,18 @@ Here is a list of recommendations for the best experience with audio and video d
 ## Conference support and where to test your A/V setup
 Once in the hopin platform, as a speaker, you can access the Green Room and test your audio/video setup and slide sharing before your session starts. If you experience any issues, we will be providing support in the same room.
 
-## For your session
-Please join the session 10 minutes before the scheduled time to connect with the session chair and prepare your slides, audio, and video setup. The same applies to pre-recorded sessions, we ask you to be present during the stream and interact with the audience. Note that all live sessions are recorded, and will be shared on YouTube afterwards.
+## Recording of your session
+We intend to record all the sessions and later upload them to [the Red Hat Community YouTube channel](https://www.youtube.com/@RedHatCommunity). Occasionally, a speaker’s talk may not be recorded for content or technical reasons.
+
+If there is some reason why your session cannot be recorded, or why it's not OK to share it on the channel, please [let us know](mailto:lbocinco@redhat.com) as soon as you can.
+
+We will also offer you a copy of the video file for your own archives and/or sharing.
+
+Also, we do not have any location for uploading copies of your slides, so you are encouraged to share your slides with us and attendees from your own site(s).
+
+
+## Join your session 10 minutes before the start
+Each talk has a separate session room (only the Lightning talks are in the same room all together). Your session room will appear in the Hopin (Go to sessions > Find your room) 20 minutes before the scheduled time. **Please join the session 10 minutes before the scheduled time** to connect with the session chair and prepare your slides, audio, and video setup. 
 
 ## Sharing screen
 When you enter the session ask for permission to share your audio/video during the break. Once you are granted access, you can control screen sharing using the monitor icon in the row with four buttons along the bottom. If the icon is crossed with a red line that means you're not sharing your screen, click on the icon to start sharing.
