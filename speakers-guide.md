@@ -27,8 +27,8 @@ Please note that the link for the test event is different from the one for the r
 * Go to “Sessions” and enter “Green Room” to check your audio/video and slide sharing. The Green Room” will be available during the “real” event as well.
 * If you are planning to do a demo, try sharing the demo as well.
 * If you need any further assistance, organizers will be present at these time slots: 
-	* **Wednesday, March 15, 6-7 pm UTC / 1-2 pm EDT**
-    * **Thursday, March 16, 3-4 pm UTC / 10-11 am EDT**
+	* **Wednesday, March 15, 6-7 pm UTC / 2-3 pm EDT**
+    * **Thursday, March 16, 3-4 pm UTC / 11 am-12 pm EDT**
 
 ## Internet speed
 Try to connect with a minimum of 5Mbit/s download and 2Mbit/s upload speed. The higher upload and download speeds will offer a better experience, ideally 30Mbit/s download and 10Mbit/s upload speed. Try limiting other consumers of your Internet capacity, e.g. try running software updates a day before to prevent them from running during the conference, pause or stop any large downloads, if need be disconnect other devices from your network. Using a physical cable connection is recommended. You can check your Internet speed by using an online network speed test website, search for Internet speed test in the web search engine of your choice.
