@@ -7,7 +7,8 @@ layout: default
 
 This is the final schedule for Container Plumbing 2023. 
 
-Videos of last event's sessions are available on our [Videos Page](/videos).
+**In order to join us, [please don't forget to register](/register)!** 
+
 
 ## March 22
 
@@ -42,25 +43,19 @@ Videos of last event's sessions are available on our [Videos Page](/videos).
 | 17:00 | 13:00 | [Future of CRI and Container Runtimes](https://containerplumbing.org/sessions/2023/future_of_cri_an) | Mrunal Patel, Peter Hunt, Alexander Kanevskiy, Sascha Grunert, Michael Brown |
 
 
-<!--
-[Please join us](/register)!
+## How the event will look like when you join us
 
-## Attending
+All of the presentations will be "sessions" in the Hopin conference platform. Sessions become visible in the Hopin site 10 minutes before they start.  
 
-All of the presentations will be "sessions" in the HopIn conference application, except for the "Welcome", which will take place on the Main Stage. Sessions become visible in the HopIn site ten minutes before they start.  
+All sessions will include Q&A, if time permitting. You may ask your question at any point in the Session Chat alongside the presentation. The moderator will track these and repeat them to the speaker at the appropriate time. Please adhere to the [code of conduct](/conduct).
 
-All sessions will include Q&A, time permitting.  You may ask your question at any point in the Session Chat alongside the presentation.  The moderator will track these and repeat them to the speaker at the appropriate time.  If we run out of time during the session, the speaker might follow up with you in the Hallway Track.  Please adhere to the [code of conduct](/conduct).
+A few sessions are discussion sessions, and attendees will be encouraged to ask questions and participate aloud and by chat. If you want to say something aloud, use the Hopin interface to *Request To Share Audio and Video* and the moderator will enable your video and mic at the appropriate time (we are strictly limited on how many people can have live mics at once).  Please *disable* your mic and video once you are done speaking.
 
-A few sessions are discussion sessions, and attendees will be encouraged to ask questions and participate aloud and by chat.  If you want to say something aloud, use the HopIn interface to *Request To Share Audio and Video* and the moderator will enable your video and mic at the appropriate time (we are strictly limited on how many people can have live mics at once).  Please *disable* your mic and video once you are done speaking.
-
-If you get "video streaming error", try using a different web browser.  Our apologies for failing to provide captions for most sessions; the techonology we tested for this didn't work out.
-
-## Hallway Track
-
-All day March 9th and 10th, we will have a parallel "session" called the "Hallway Track."  This is an open session where any attendee may share audio and video, for impromptu discussions or follow-ups on sessions, as well as just meeting people.  The Hallway Track will not be recorded.
+If you get "video streaming error", try using a different web browser. Our apologies for failing to provide captions for most sessions; the techonology we tested for this didn't work out.
 
 ## Video Recording
 
-All sessions will be video recorded, and offered on the [Red Hat Community](https://www.youtube.com/c/RedHatCommunity) video channel after editing.  Sessions may also be available via the speakers' own video channels.  If you choose to ask a question out loud, you will be on the recording.
+We intend to record all the sessions and later upload them to the [Red Hat Community YouTube channel](https://www.youtube.com/c/RedHatCommunity) after editing. Occasionally, a speaker’s talk may not be recorded for content or technical reasons. Sessions may also be available via the speakers' own video channels. If you choose to ask a question out loud, you will be on the recording.
 
--->
+
+Videos of last event's sessions are available on our [Videos Page](/videos).
