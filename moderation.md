@@ -8,34 +8,33 @@ Your duties before the session you're moderating starts are:
 2. Find out how to introduce them
 3. Check on how they want to handle questions
 4. See if they have a slide link
+5. Share in the "event" chat (there is also a session chat) the upcoming session (share the title and speakers name). You can find the schedule [here](https://containerplumbing.org/schedule).
 
 Once the session starts, you need to:
 
 1. Introduce the speaker
 2. For discussion sessions, introduce the rules of discussion
-3. Check the chat for questions and share them with the speaker at the appropriate time
-4. Check the chat for CoC violations and boot the violator
+3. Check the chat for questions and share them with the speaker at the appropriate time (usually after their presentation)
+4. Check the chat for [Code of Conduct](https://containerplumbing.org/conduct.html) violations and boot the violator
 5. Check the chat for general conference questions and answer them ("is this video being recorded?")
 6. Warn the speaker if they are running over time
 7. For discussion sessions, enable AV for discussion participants
-8. Near the end of the session, let people know about the survey
+8. Near the end of the session, let people know about [the feedback survey](https://forms.gle/gamtSHwjXWD2VNxp9)
 
 Other things you can do, if you have time:
 
-1. Participate in the "main chat" for the conference and notify folks of upcoming sessions.
-2. Check into the Hallway Track session in case someone needs help there
-3. Tweet out upcoming sessions
+1. Participate in the "Event chat" for the conference and notify folks of upcoming sessions.
+2. Tweet out upcoming sessions
 
 ## Joining Sessions
 
-Sessions don't get listed on the Hopin App until they are about to start.  As such, you should use the direct session link from the spreadsheet.
-
+Each talk has a separate session room (only the Lightning talks are in the same room all together). Your session room will appear in the Hopin 20 minutes before the scheduled time. Please join the session 10 minutes before the scheduled time to connect with speakers and get them ready (prepare their slides, test an audio, and video setup). You as a moderator need to be present in the session room to give speakers rights to share their audio/video and slides.
 ## AV Enablement
 
 First, see these Hopin Tutorials:
 
-* [sessions](https://support.hopin.to/en/articles/3804080-5-sessions-tutorial)(scroll down to "During the Event")
-* [speaker instructions](https://support.hopin.to/en/articles/3541203-speaker-instructions)
+* [sessions](https://support.hopin.com/hc/en-us/articles/4402442259220-Tips-for-Speaking-in-and-Moderating-Sessions) (scroll down to "Moderated Session")
+* [speaker instructions](https://support.hopin.com/hc/en-us/articles/360056078432-Speaker-Instructions)
 
 Log in to the session you're moderating at least 15 minutes before it starts, so that you can help the speaker troubleshoot any AV and connection issues, if necessary.   Each speaker has been set up as a "moderator" for their session as well, which means they shouldn't need you to turn on their AV.  However, issues happen, and they might need you to anyway.
 
@@ -68,4 +67,4 @@ Most of this is on the [schedule page](https://containerplumbing.org/schedule):
 
 ## Conference Survey
 
-We are asking attendees to [fill out a survey](https://forms.gle/KcuhaRP5sRZFuNdN6) on the conference.  At least 25 of the people who do will get a Podman, Buildah, or CRI-O tshirt.  Please share the link to this survey at least once during your session(s).
+We are asking attendees to [fill out a survey](https://forms.gle/gamtSHwjXWD2VNxp9) on the conference.  At least 25 of the people who do will get a Container Plumbing Days t-shirt.  Please share the link to this survey at least once during your session(s).
