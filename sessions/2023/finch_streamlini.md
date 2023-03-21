@@ -1,6 +1,6 @@
 # Finch: Streamlining Container Development with an Open Source stack 
 
-**Presenters**: Ziwen Ning, Chandru Pokala (Amazon Web Services)
+**Presenters**: Ziwen Ning, Kyle Davis (Amazon Web Services)
 
 **Session Type:** Presentation (25min)
 

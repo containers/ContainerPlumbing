@@ -9,7 +9,6 @@
 | Avery Blanchard | Red Hat |
 | Brandon Mitchell | BoxBoat, an IBM Company |
 | Cedric Casper | science+computing AG, an Atos company |
-| Chandru Pokala | Amazon Web Services |
 | Charlie Drage | Red Hat |
 | Christophe Fergeau | Red Hat |
 | Colin Walters | Red Hat, Inc. |
@@ -24,6 +23,7 @@
 | Kohei Tokunaga | NTT |
 | Krisztian Fekete | solo.io |
 | Krisztian Litkey | Intel |
+| Kyle Davis | Amazon Web Services |
 | Lily Sturmann | Red Hat |
 | Michael Brown | Varies |
 | Mrunal Patel | Varies |

@@ -39,7 +39,7 @@ This is the final schedule for Container Plumbing 2023.
 | 15:00 | 11:00 | [WASM/WASI and Cloud Ecosystem](https://containerplumbing.org/sessions/2023/wasm_wasi_and_cl) | Aditya Rajan, Giuseppe Scrivano |
 | 15:30 | 11:30 | [Modifying the Immutable: Attaching Artifacts to OCI Images](https://containerplumbing.org/sessions/2023/modifying_the_im) | Brandon Mitchell |
 | 16:00 | 12:00 | [bootc - A new project for bootable containers](https://containerplumbing.org/sessions/2023/bootc_a_new_proj) | Colin Walters |
-| 16:30 | 12:30 | [Finch: Streamlining Container Development with an Open Source stack](https://containerplumbing.org/sessions/2023/finch_streamlini) | Ziwen Ning, Chandru Pokala |
+| 16:30 | 12:30 | [Finch: Streamlining Container Development with an Open Source stack](https://containerplumbing.org/sessions/2023/finch_streamlini) | Ziwen Ning, Kyle Davis |
 | 17:00 | 13:00 | [Future of CRI and Container Runtimes](https://containerplumbing.org/sessions/2023/future_of_cri_an) | Mrunal Patel, Peter Hunt, Alexander Kanevskiy, Sascha Grunert, Michael Brown |
 
 
