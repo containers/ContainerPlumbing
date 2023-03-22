@@ -34,7 +34,7 @@ Thirty two terrific speakers, experts on a variety of container technologies, ar
 | Brandon Mitchell | BoxBoat |
 | Colin Walters | Red Hat |
 | Ziwen Ning | Amazon Web Services |
-| Chandru Pokala | Amazon Web Services |
+| Kyle Davis | Amazon Web Services |
 | Mrunal Patel | Red Hat |
 | Alexander Kanevskiy | Intel |
 | Sascha Grunert | Red Hat |
