@@ -8,6 +8,8 @@ After a year of postponement, Container Plumbing Days is *back*!
 
 In 2023, we're going to have a two-day virtual event full of container runtime hacking, image building, alternate platforms, and more.  It will take place March 22nd and 23rd, from around 1300 UTC to 1800 UTC.
 
+Join us in [Hopin](https://app.hopin.com/events/container-plumbing-days-2023-14e3f628-c5d2-42ac-80e8-451dae77b00d/) (You need to register first)! 
+
 ## Container Plumbing?
 
 Container Plumbing Days is a 2-day online event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
