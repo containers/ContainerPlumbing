@@ -9,6 +9,8 @@ This is the final schedule for Container Plumbing 2023.
 
 **In order to join us, [please don't forget to register](/register)!** 
 
+[Direct Conference Join Link](https://app.hopin.com/events/container-plumbing-days-2023-14e3f628-c5d2-42ac-80e8-451dae77b00d/)
+
 
 ## March 22
 
