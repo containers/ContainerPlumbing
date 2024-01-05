@@ -2,23 +2,29 @@
 layout: default
 ---
 
-## Container Plumbing Days 2023
+## Container Plumbing Days 2024
 
-After a year of postponement, Container Plumbing Days is *back*!
+Container Plumbing Days is now an event of the Open Container Initiative.  As such, you can proceed to its [LF Events Page](https://events.linuxfoundation.org/container-plumbing-days/).
 
-In 2023, we're going to have a two-day virtual event full of container runtime hacking, image building, alternate platforms, and more.  It will take place March 22nd and 23rd, from around 1300 UTC to 1800 UTC.
+The [CfP is Now Open](https://events.linuxfoundation.org/container-plumbing-days/program/cfp/)
 
-Join us in [Hopin](https://app.hopin.com/events/container-plumbing-days-2023-14e3f628-c5d2-42ac-80e8-451dae77b00d/) (You need to register first)! 
+In 2024, we're going to have a one-day in-person event full of container runtime hacking, image building, alternate platforms, and more.  
+
+**Date**: April 15, 2024
+
+**Location**: [Seattle Convention Center, Seattle, WA](https://events.linuxfoundation.org/container-plumbing-days/attend/venue-travel/)
+
+Container Plumbing Day immediately precedes the [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/), and is held together with the Open Container Initiative meeting.  You are not required to register for the OS Summit in order to attend.
 
 ## Container Plumbing?
 
-Container Plumbing Days is a 2-day online event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
+Container Plumbing Days is an event to investigate, discuss, hack, learn, and celebrate the "lower-level" open source container technologies, everything from the container runtime on down to the Linux kernel.
 
-You can see the kind of sessions we had in 2021 in the [Red Hat Community Video channel](https://www.youtube.com/watch?v=v7XzoMZaGbY&list=PLVuc-VIfmlz1eSDhDVfAL0EbiQRvAX3gc).
+You can see the kind of sessions we've had in our [videos](/videos).
 
 Container orchestration and top-level applications may get most of the exposure, but they only work because of an infrastructure of supporting tools and libraries: in short, the "plumbing" that makes platforms like Kubernetes work.  There's plenty of development still to do there, and plenty of new ideas that have not yet been fully explored.
 
-Concepts we will explore include:
+Concepts we explore include:
 
 * Container runtimes
 * Image building
@@ -30,13 +36,14 @@ Concepts we will explore include:
 * Container engines on alternate platforms
 * Image transports
 * File system storage for containers
+* Container-based/immutable OSes
 
-The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, WASM, and many others.  If your project involves lower-level container resources, consider proposing a session!
+The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, WASM, uBlue, and many others.  If your project involves lower-level container resources, consider proposing a session!
 
 ## Conduct
 
-All attendees and speakers at Container Plumbing are subject to our [Code of Conduct](/conduct)
+All attendees and speakers at Container Plumbing are subject to the [LF Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/)
 
 ## Sponsors
 
-Container Plumbing Days is sponsored by [Red Hat](https://www.redhat.com/en/technologies/cloud-computing/openshift) and the [Open Container Initiative](https://opencontainers.org/).
+Container Plumbing Days is an event of the [Open Container Initiative](https://opencontainers.org/).
