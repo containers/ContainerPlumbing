@@ -6,7 +6,7 @@ layout: default
 
 Container Plumbing Days is now an event of the Open Container Initiative.  As such, you can proceed to its [LF Events Page](https://events.linuxfoundation.org/container-plumbing-days/).
 
-The [CfP is Now Open](https://events.linuxfoundation.org/container-plumbing-days/program/cfp/)
+The [schedule is now live](https://events.linuxfoundation.org/container-plumbing-days/program/schedule/).
 
 In 2024, we're going to have a one-day in-person event full of container runtime hacking, image building, alternate platforms, and more.  
 
