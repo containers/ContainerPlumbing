@@ -8,7 +8,7 @@ Container Plumbing Days is now an event of the Open Container Initiative.  As su
 
 The [schedule is now live](https://events.linuxfoundation.org/container-plumbing-days/program/schedule/).
 
-In 2024, we're going to have a one-day in-person event full of container runtime hacking, image building, alternate platforms, and more.  
+In 2024, we're going to have a one-day *in-person* event full of container runtime hacking, image building, alternate platforms, and more.  
 
 **Date**: April 15, 2024
 

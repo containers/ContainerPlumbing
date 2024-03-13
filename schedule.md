@@ -5,4 +5,4 @@ layout: default
 
 ## 2024 Schedule
 
-A schedule will be available [on the LF site](https://events.linuxfoundation.org/container-plumbing-days) in early March.
+The schedule is available [on the LF site](https://events.linuxfoundation.org/archive/2020/kubecon-cloudnativecon-north-america/program/schedule/).

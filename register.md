@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Registration Is Not Yet Open
+# Registration
 
-Once registration is open, [you may register here](https://events.linuxfoundation.org/container-plumbing-days/register/).
+Register [on the LFEvents site](https://events.linuxfoundation.org/container-plumbing-days/register/).
